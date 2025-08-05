@@ -26,8 +26,7 @@ A standard sales dataset containing customer orders, sales, profit, region, prod
 
 2. **Profit by Sub-Category**  
    - **Chart Type:** Bar Chart with Conditional Formatting  
-   - **Insight:** Products like Copiers and Phones drive profit, while some sub-categories show lower returns.  
-   - ❗Negative profits are highlighted in **red** for better visibility.
+   - **Insight:** Products like Copiers and Phones drive profit, while some sub-categories show lower returns. 
 
 3. **Profit Distribution by Category**  
    - **Chart Type:** Donut Chart  
